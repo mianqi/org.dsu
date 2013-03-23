@@ -47,7 +47,7 @@
 	<dependency>
 		<groupId>junit</groupId>
 		<artifactId>junit</artifactId>
-		<version>4.8.2</version>
+		<version>${junit.version}</version>
 	</dependency>
 	
 	<dependency>
@@ -75,6 +75,7 @@
       <properties>
       	<spring2.version>2.5.6</spring2.version>
       	<spring3.version>3.2.2.RELEASE</spring3.version>
+      	<junit.version>4.8.2</junit.version>
       </properties>
       
       <repositories>
