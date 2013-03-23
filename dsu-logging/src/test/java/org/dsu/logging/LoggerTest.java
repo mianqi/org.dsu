@@ -1,3 +1,4 @@
+package org.dsu.logging;
 import junit.framework.Assert;
 
 import org.dsu.logging.DSULogger;
